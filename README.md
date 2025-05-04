@@ -6,19 +6,10 @@
 *Still learning someting*
 ## **About Me**
 <a href="https://github.com/salwater"><img align="left" width="100" src="/img/narsis.jpeg"></img></a>
-I am someone who is learning about the world so I will learn until I can go beyond my limits, and I like watching anime, playing games
+As a student deeply engaged in learning about the world, with a love for anime, games, and books, I am committed to continuous self-improvement and strive daily to push beyond my current limits.
 <br></br>
 
-## **Github Stat**
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=salwater&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blueberry&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=salwater&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blueberry&hide_border=true" height="150" alt="languages graph"  />
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=salwater&theme=blueberry&hide_border=true" alt="GitHub Streak" /></a>
-</div>
-
+## **Language i used**
 ###
 
 <br clear="both">
@@ -33,6 +24,17 @@ I am someone who is learning about the world so I will learn until I can go beyo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+</div>
+<br></br>
+
+## **Github Stat**
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=salwater&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blueberry&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=salwater&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blueberry&hide_border=true" height="150" alt="languages graph"  />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=salwater&theme=blueberry&hide_border=true" alt="GitHub Streak" /></a>
 </div>
 
 ###
