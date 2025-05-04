@@ -26,8 +26,12 @@
 ###
 
 <div align="left">
-    ![https://www.youtube.com/@salwaterind](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
-    ![instagram.com/salwaterind](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+  <a href="https://www.youtube.com/@salwaterind">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Logo YouTube" />
+  </a>
+  <a href="https://www.instagram.com/salwaterind">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Logo Instagram" />
+  </a>
 </div>
 
 ###
