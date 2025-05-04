@@ -12,7 +12,7 @@
 
 <br clear="both">
 
-<img align="left" height="150" src="/img/sleep-deprived-miku-hatsune-miku.gif"  />
+<img align="right" height="150" src="/img/anime-aaaa.gif"  />
 
 ###
 
