@@ -1,5 +1,9 @@
 <a><img src="/img/berendam.jpg"></a>
 
+<a href="https://discord.gg/3BPj4ntaMA"><img align="right" width="425" src="https://lanyard.cnrad.dev/api/736455354589642892?&bg=0d1117&animated=false&hideDiscrim=true&borderRadius=5px&idleMessage=Probably%20doing%20something%20else..."></a>
+
+### Hi 🙌 I'm SALOMO
+**Gamer and Learning**
 ###
 
 <div align="center">
