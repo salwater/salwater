@@ -1,4 +1,4 @@
-<a><img src="/img/berendam.jpeg"></a>
+<a><img src="/img/berendam.jpg"></a>
 
 ###
 
