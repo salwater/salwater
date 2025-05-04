@@ -5,7 +5,7 @@
 ### Hi 🙌 I'm SALOMO 🙇
 *Still learning someting*
 ## **About Me**
-<a><img align="left" width="100" src="/img/narsis.jpeg"></img></a>
+<a href="https://github.com/salwater"><img align="left" width="100" src="/img/narsis.jpeg"></img></a>
 I am someone who is learning about the world so I will learn until I can go beyond my limits, and I like watching anime, playing games
 <br></br>
 
