@@ -38,8 +38,6 @@ As a student deeply engaged in learning about the world, with a love for anime, 
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/salwater/salwater/output/snake.svg" alt="Snake animation" />
 
 ###
