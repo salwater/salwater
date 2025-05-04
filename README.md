@@ -1,5 +1,3 @@
-<h2 align="left">Hi 👋! My name is SALOMO PUTRA HADI WIJAYA and I'm a student, from Indonesia</h2>
-
 ###
 
 <div align="center">
