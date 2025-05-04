@@ -11,7 +11,7 @@
 
 <br clear="both">
 
-<img align="left" height="150" src="https://tenor.com/id/view/sleep-deprived-miku-hatsune-miku-depressed-kunaiu-gif-16388924589032403902"  />
+<img align="left" height="150" src="/img/sleep-deprived-miku-hatsune-miku.gif"  />
 
 ###
 
