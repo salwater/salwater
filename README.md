@@ -5,7 +5,7 @@
 ### Hi 🙌 I'm SALOMO 🙇
 *Still learning someting*
 ## **About Me**
-<a href="https://github.com/salwater"><img align="left" width="100" src="/img/Mashiru Shiino/shina liat.jpeg"></img></a>
+<a href="https://github.com/salwater"><img align="left" width="100" src="/img/Mashiru Shiino/shiina student.jpeg"></img></a>
 As a student deeply engaged in learning about the world, with a love for anime, games, and books, I am committed to continuous self-improvement and strive daily to push beyond my current limits.
 <br></br>
 
