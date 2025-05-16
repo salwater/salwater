@@ -12,7 +12,6 @@
 - I like to: **Coding, Anime, and Playing Games**
 - Work: **Still Student**
 - Language: **Indonesian, English**
-#
 <br></br>
 
 ## **Github Stat**
