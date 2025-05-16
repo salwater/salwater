@@ -5,13 +5,13 @@
 ### Hi 🙌 I'm SALOMO 🙇
 *Still learning someting*
 ## **About Me**
-<a href="https://github.com/salwater"><img align="left" width="100" src="/img/yozakura mutsumi/mutsumi.png"></img></a>
-- Name: **SALOMO**
+<a href="https://github.com/salwater"><img align="left" width="120" src="/img/yozakura mutsumi/mutsumi.png"></img></a>
+- Name: **Salomo Putra Hadiwijaya** ( salwater )
 - Residing in: **Ngawi, Indonesia**
-- Pronouns: **He/Him**
+- Pronouns: **He/Him/Man/Lanang/Jantan/Laki-Laki/Pria/男**
 - I like to: **Coding, Anime, and Playing Games**
 - Work: **Still Student**
-- Language: **Indonesian, English**
+- Language: **Indonesia, English**
 <br></br>
 
 ## **Github Stat**
