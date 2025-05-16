@@ -5,14 +5,14 @@
 ### Hi 🙌 I'm SALOMO 🙇
 *Still learning someting*
 ## **About Me**
-<a href="https://github.com/salwater"><img align="left" width="100" src="/img/yozakura mutsumi/vertopal.com_6a2fd3d2-b658-4cb4-be3b-c3a3a1662ec1.png"></img></a>
+<a href="https://github.com/salwater"><img align="left" width="100" src="/img/yozakura mutsumi/mutsumi senyum.png"></img></a>
 As a student deeply engaged in learning about the world, with a love for anime, games, and books, I am committed to continuous self-improvement and strive daily to push beyond my current limits.
 <br></br>
 
 ## **Language i used**
 ###
 
-<a href="https://github.com/salwater"><img align="right" height="150" src="/img/yozakura mutsumi/Yozakura-san-Chi-no-Daisakusen-_-Mission_-Yozakura….png  /"></a>
+<a href="https://github.com/salwater"><img align="right" height="150" src="/img/yozakura mutsumi/oh.png  /"></a>
 
 ###
   Im recently use HTML, CSS, JAVASCRIPT. I also have knowledge about PHP, and Python. I am eager to learn more and expand
