@@ -8,7 +8,7 @@
 <a href="https://github.com/salwater"><img align="left" width="120" src="/img/yozakura mutsumi/mutsumi.png"></img></a>
 - Name: **Salomo Putra Hadiwijaya** ( salwater )
 - Residing in: **Ngawi, Indonesia**
-- Pronouns: **He/Him/Man/Lanang/Jantan/Laki-Laki/Pria/男**
+- Pronouns: **He/Him /Man/Lanang/Jantan/Laki-Laki/Pria/男**
 - I like to: **Coding, Anime, and Playing Games**
 - Work: **Still Student**
 - Language: **Indonesia, English**
