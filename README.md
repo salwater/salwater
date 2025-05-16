@@ -5,25 +5,14 @@
 ### Hi 🙌 I'm SALOMO 🙇
 *Still learning someting*
 ## **About Me**
-<a href="https://github.com/salwater"><img align="left" width="100" src="/img/yozakura mutsumi/mutsumi senyum.png"></img></a>
-As a student deeply engaged in learning about the world, with a love for anime, games, and books, I am committed to continuous self-improvement and strive daily to push beyond my current limits.
+<a href="https://github.com/salwater"><img align="left" width="140" src="/img/yozakura mutsumi/mutsumi.png"></img></a>
+- Name: **SALOMO**
+- Residing in: **Ngawi, Indonesia**
+- Pronouns: **He/Him**
+- I like to: **Coding, Anime, and Playing Games**
+- Work: **Still Student**
+- Language: **Indonesian, English**
 <br></br>
-
-## **Language i used**
-###
-
-<a href="https://github.com/salwater"><img align="right" height="150" src="/img/yozakura mutsumi/oh.png  /"></a>
-
-###
-  Im recently use HTML, CSS, JAVASCRIPT. I also have knowledge about PHP, and Python. I am eager to learn more and expand
-<div align="left">
-  <a href="https://github.com/salwater"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  /></a>
-  <img width="12" />
-  <a href="https://github.com/salwater"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  /></a>
-  <img width="12" />
-  <a href="https://github.com/salwater">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  /></a>
-</div>
 
 ## **Github Stat**
 
