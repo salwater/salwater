@@ -21,7 +21,6 @@
 <div align="center">
   <a href="https://github.com/salwater"><img src="https://github-readme-stats.vercel.app/api?username=salwater&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&bg_color=0D1117" height="50%" alt="stats graph"  /></a>
   <a href="https://github.com/salwater"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=salwater&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=true&bg_color=0D1117" height="50%" alt="languages graph"  /></a>
-  <a href="https://github.com/salwater"><img src="https://streak-stats.demolab.com?user=salwater&theme=react&hide_border=true" height="50%" alt="GitHub Streak" /></a>
 
 </div>
 
