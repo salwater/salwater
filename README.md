@@ -4,7 +4,6 @@
 
 ### Hi 🙌 I'm SALOMO 🙇
 *Still learning someting*
-#
 ## **About Me**
 <a href="https://github.com/salwater"><img align="left" width="120" src="/img/yozakura mutsumi/mutsumi.png"></img></a>
 - Name: **Salomo Putra Hadiwijaya** ( salwater )
